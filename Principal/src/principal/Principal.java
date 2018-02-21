@@ -8,12 +8,13 @@ public class Principal {
 
         Vehiculo mivehiculo = new Vehiculo();
         Moto mimoto = new Moto();
-        Camion micamion = new Camion();
-        
+
+        Fichatecnica MiFichatecnica = new Fichatecnica(); 
         Scanner myScanner = new Scanner(System.in);
+        MiFichatecnica.setVisible(true);
+   
         
-        
-        
+        MiFichatecnica.setVisible(true);
         
         
         
